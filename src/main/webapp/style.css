@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+form {
+	position: absolute;
+	top: 28%;
+	left: 40%;
+	right: 40%
+}
+h2{
+	position: relative;
+	top: 28%;
+	left: 0%;
+}
+h6{
+	position: absolute;
+	left: 30%;
+}
+
+.btnEnviar{
+	position: absolute;
+	top: 110%;
+	left: -10%;
+}
+.btn{
+	width: 360px;
+}
